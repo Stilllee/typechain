@@ -50,6 +50,6 @@
 - [x] #5.3 Declaration
 - [x] #5.4 JSDoc
 - [x] #5.5 Blocks
-- [ ] #5.6 DefinitelyTyped
+- [x] #5.6 DefinitelyTyped
 - [ ] #5.7 Chain
 - [ ] #5.8 Conclusions
