@@ -46,7 +46,7 @@
 
 - [x] #5.0 Introduction
 - [x] #5.1 Targets
-- [ ] #5.2 Lib Configuration
+- [x] #5.2 Lib Configuration
 - [ ] #5.3 Declaration
 - [ ] #5.4 JSDoc
 - [ ] #5.5 Blocks
