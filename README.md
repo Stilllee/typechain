@@ -49,7 +49,7 @@
 - [x] #5.2 Lib Configuration
 - [x] #5.3 Declaration
 - [x] #5.4 JSDoc
-- [ ] #5.5 Blocks
+- [x] #5.5 Blocks
 - [ ] #5.6 DefinitelyTyped
 - [ ] #5.7 Chain
 - [ ] #5.8 Conclusions
