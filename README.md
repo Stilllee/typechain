@@ -51,5 +51,5 @@
 - [x] #5.4 JSDoc
 - [x] #5.5 Blocks
 - [x] #5.6 DefinitelyTyped
-- [ ] #5.7 Chain
+- [x] #5.7 Chain
 - [ ] #5.8 Conclusions
