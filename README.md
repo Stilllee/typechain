@@ -1,6 +1,12 @@
-# Typescript로 블록체인 만들기
+# Typecript로 블록체인 만들기
 
 ## Nomad Coders
+
+---
+
+### The TypeScript Handbook
+
+https://www.typescriptlang.org/ko/docs/handbook/intro.html
 
 ---
 
@@ -52,4 +58,4 @@
 - [x] #5.5 Blocks
 - [x] #5.6 DefinitelyTyped
 - [x] #5.7 Chain
-- [ ] #5.8 Conclusions
+- [x] #5.8 Conclusions
