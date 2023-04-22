@@ -48,7 +48,7 @@
 - [x] #5.1 Targets
 - [x] #5.2 Lib Configuration
 - [x] #5.3 Declaration
-- [ ] #5.4 JSDoc
+- [x] #5.4 JSDoc
 - [ ] #5.5 Blocks
 - [ ] #5.6 DefinitelyTyped
 - [ ] #5.7 Chain
