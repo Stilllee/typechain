@@ -2,8 +2,6 @@
 
 ## Nomad Coders
 
----
-
 ### The TypeScript Handbook
 
 https://www.typescriptlang.org/ko/docs/handbook/intro.html
